@@ -1,6 +1,7 @@
 <?php
 include ('Hewan.php');
 // Pemanggilan hewan mamalia
+// Pemanggilan hewan mamalia
 echo "======Mamalia=====<br>";
 $mamalia1=new Mamalia();
 $mamalia1->setNama("Monyet");
